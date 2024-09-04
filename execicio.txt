@@ -1,0 +1,16 @@
+1o. Problema
+
+1. Cre um algoritmo para calcular a média de um aluno que estuda semestralmente e exiba o resultado
+
+Resposta
+
+algoritmo Calculo_Media
+var n1, n2, m :real
+inicio
+exiba("Insira sua primeira nota: ")
+ler n1
+exiba("Insira sua segunda nota: ")
+ler n2
+m = (n1 + n2)/2
+exiba("sua média foi:", m)
+fim
